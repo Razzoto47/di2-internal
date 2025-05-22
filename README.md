@@ -21,7 +21,7 @@ src i uploaded on dropbox bcs i am lazy af and i dont want 2 use git lfs (too mu
 
 ### Notes
 
-- Use at your own risk.
+- Inject with manual-map method, on di2 process with x64 file name
 - The code is experimental and may be unstable.
 - This project is open source. You are free to use, modify, and distribute the source code as you wish, but please make sure to give proper credit to the original author. Contributions and improvements are always welcome!
 
