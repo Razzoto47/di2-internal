@@ -3,7 +3,6 @@
 ![Open Source](https://img.shields.io/badge/License-MIT-green)
 ![DirectX 12](https://img.shields.io/badge/API-DirectX%2012-blue)
 ![Cheat](https://img.shields.io/badge/Feature-Cheat-red)
-![Version](https://img.shields.io/github/v/release/USERNAME/REPO_NAME)
 
 _Last update: 23/05/2025_
 
